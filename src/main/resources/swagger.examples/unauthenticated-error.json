@@ -1,0 +1,5 @@
+{
+	"type": "error",
+	"title": "Not authenticated",
+	"detail": "Full authentication is required to access resource"
+}
